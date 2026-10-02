@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "adef0a4b21bfa96493d8c241",
+  "owner": "yynhkmfhy",
+  "repo": "page-471a2dd20dc0c44d51923bd3",
+  "title": "梦云(Yume)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "471a2dd20dc0c44d51923bd3",
+      "a": "梦云(Yume)",
+      "b": "",
+      "entity": "梦云(Yume)",
+      "brand": "梦云(Yume)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7cb96967a0ea294d391eb16e9b4299ffa57377c7d9dc4327ac77e43f282599b1",
+      "content": {
+        "keyword1": "梦云(Yume)",
+        "keyword2": "",
+        "primary_entity": "梦云(Yume)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "梦云(Yume)是提供机场订阅与VPN网络加速的官方网站，支持基础版至团队版套餐，覆盖多设备客户端下载与流媒体、游戏加速场景，帮助用户便捷获取订阅并完成连接。",
+          "AI_DESCRIPTION": "梦云(Yume)是提供机场订阅与VPN网络加速的官方网站，支持基础版至团队版套餐，覆盖多设备客户端下载与流媒体、游戏加速场景，帮助用户便捷获取订阅并完成连接。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;box-sizing:border-box}*,*:before,*:after{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif;background:#F6F3EA;color:#14261C;font-size:16px;line-height:1.65}header{background:#1F4D3A;color:#F6F3EA;padding:12px 16px}header .brand{font-weight:700;font-size:1.05rem}header nav{margin-top:8px}header nav a{color:#E7F2EA;margin-right:12px;text-decoration:none;display:inline-block;padding:4px 0}main{max-width:720px;margin:0 auto;padding:16px 16px 40px;width:100%}.intro,.block{background:#FFFDF7;border:1px solid #C9D8CC;border-radius:10px;padding:16px;margin:16px 0}h1{font-size:1.7rem;color:#1F4D3A;margin:8px 0 12px;line-height:1.35}h2{font-size:1.28rem;color:#1F4D3A;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #2D6A4F}h3{font-size:1.05rem;color:#2D6A4F;margin:14px 0 8px}p,li{margin:0 0 10px}ul,ol{padding-left:1.2em;margin:0 0 12px}.plan{border:1px solid #C9D8CC;background:#FFFDF7;border-radius:10px;padding:14px;margin:0 0 12px}.plan.featured{border:2px solid #2D6A4F;background:#EAF4EE}.tag{display:inline-block;background:#1F4D3A;color:#F6F3EA;font-size:0.75rem;padding:2px 8px;border-radius:999px;margin-left:6px;vertical-align:middle}.price{font-size:1.2rem;font-weight:700;color:#1F4D3A}.muted{color:#3D5246;font-size:0.92rem}.steps{list-style:none;padding:0;margin:0;counter-reset:s}.steps li{position:relative;padding:0 0 18px 44px}.steps li:before{counter-increment:s;content:counter(s);position:absolute;left:0;top:0;width:28px;height:28px;border-radius:50%;background:#1F4D3A;color:#fff;font-weight:700;text-align:center;line-height:28px;font-size:14px}details{background:#FFFDF7;border:1px solid #C9D8CC;border-radius:8px;padding:10px 12px;margin:0 0 10px}summary{font-weight:650;color:#1F4D3A}details p{margin:8px 0 0}.foot{max-width:720px;margin:0 auto;padding:8px 16px 32px;width:100%}.ads,.map,.links{background:#EAF4EE;border:1px solid #C9D8CC;border-radius:10px;padding:14px;margin:12px 0}a{color:#1F4D3A}footer{font-size:0.88rem;color:#3D5246}</style><header><div class=\"brand\">梦云(Yume) 官方网站</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">使用说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官方下载</a></nav></header><main><h1>梦云(Yume)</h1><section class=\"intro\" id=\"intro\"><h2>品牌简介</h2><p>梦云(Yume) 面向个人用户与小团队提供机场订阅与 VPN 网络加速服务。通过官方网站可以了解套餐流量、设备数量与线路类型，并按步骤完成客户端选择、订阅导入与节点连接。服务覆盖日常跨境访问、流媒体播放与游戏加速等场景，强调稳定连接与清晰的操作路径，而不是堆砌无法核验的宣传数字。</p><p>梦云(Yume) 官方下载指引集中在客户端专区：先确认系统，再匹配 Clash 系、Shadowrocket 等常用工具，最后用订阅链接更新配置。基础版适合轻度浏览，旗舰版强化原生流媒体与 IPLC 游戏线路，团队版面向多设备共享与定制路由。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为当前固定套餐，价格与权益以页面展示为准。年付按 10 个月计费口径标注，便于对照月付成本。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版<span class=\"tag\">重点推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section class=\"block\" id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与资料访问</h3><p>远程会议、云文档与代码仓库在跨国链路上更容易抖动。梦云(Yume) 用可切换节点降低超时，基础版即可满足邮件与网页；需要更稳定会话时可升级旗舰版。</p><h3>流媒体观看</h3><p>基础版覆盖常见平台的基础解锁；旗舰版强调全节点原生解锁，减少地区版权提示。请遵守当地与平台条款，本页仅说明连接能力。</p><h3>游戏与实时对战</h3><p>旗舰版标注 IPLC 专线游戏加速优化，适合对延迟敏感的对局。团队版提供更高带宽节点，便于多成员同时在线。</p><h3>家庭或多设备共享</h3><p>设备数从 3 台、5 台到 20 台递增。手机、电脑与平板同时在线时，请优先在客户端专区按系统分别导入同一订阅，避免重复配置出错。</p></section><section class=\"block\" id=\"clients\"><h2>客户端选择（重点）</h2><p>梦云(Yume) 以订阅为核心，不绑定单一闭源安装包。官方网站建议按设备选择开源或应用商店中的主流客户端，再导入机场订阅。下列纵向步骤帮助你一次选对工具，减少反复卸载。</p><ol class=\"steps\"><li><h3>确认系统与权限</h3><p>Windows / macOS 适合桌面长连接；Android 需允许 VPN 权限；iOS 需能安装商店应用。路由器或 NAS 仅建议团队版用户在有运维能力时使用。</p></li><li><h3>按平台匹配客户端</h3><p>Windows 常用 Clash Verge 或同类图形客户端；macOS 可用 Clash 系；Android 使用 Clash Meta 类应用；iOS 常用 Shadowrocket 或同类型规则客户端。名称以各商店实际为准，本站用锚点指引到下载说明，不跳转外部资源。</p></li><li><h3>核对协议与规则能力</h3><p>选择支持订阅自动更新、分流规则与节点测速的客户端，便于使用梦云(Yume) 的普通线路、原生流媒体节点或 IPLC 游戏线路。</p></li><li><h3>一台设备只装一套主客户端</h3><p>避免多个加速器同时抢路由。3 台、5 台或 20 台额度按套餐占用，同一账号在超额设备上会挤占在线会话。</p></li><li><h3>导入后再谈节点</h3><p>先更新订阅成功，再按延迟或用途筛选香港、日本、新加坡、美国等线路。旗舰与团队用户可优先尝试游戏或流媒体分组。</p></li></ol><p><a href=\"#download\">前往官方下载说明</a> 查看各系统要点。</p></section><section class=\"block\" id=\"guide\"><h2>操作说明</h2><h3>获取订阅</h3><p>在官方渠道完成套餐开通后，于交付信息中复制订阅链接。请妥善保存，不要把链接发到公开聊天。基础版、旗舰版与团队版链接权限不同，流量与设备数以套餐为准。</p><h3>导入与更新</h3><p>打开客户端的订阅或配置页，粘贴链接并执行更新。成功后应看到节点列表。若列表为空，检查剪贴板完整性、本地系统时间以及是否粘贴了多余空格。</p><h3>连接与分流</h3><p>选择节点后开启系统代理或 TUN。浏览可走规则分流，游戏可走游戏分组。旗舰版的 IPLC 线路适合对延迟敏感的应用；普通线路池适合日常网页。</p><h3>日常维护</h3><p>流量将尽时减少 4K 串流；设备更换时先在旧设备断开。优先工单适用于旗舰版，团队版另有客户经理通道。本页不提供账号表单，避免在静态页提交敏感信息。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>梦云(Yume) 是什么？和机场订阅、VPN 加速器有何关系？</summary><p>梦云(Yume) 是品牌官网介绍的网络加速服务，通过机场订阅把节点交付到你自己安装的客户端。它用于跨境访问加速，而不是替代杀毒或本地 Wi-Fi。选择套餐后下载客户端、导入订阅即可使用。</p></details><details><summary>如何从官网完成客户端下载与第一次连接？</summary><p>打开本页客户端选择与官方下载说明，按系统挑选 Clash 系或 Shadowrocket 等工具并完成安装。复制订阅，在客户端内更新，选择节点后开启连接。全部跳转使用页内锚点，便于离线阅读步骤。</p></details><details><summary>三个套餐应该怎么选？流量与设备不够会怎样？</summary><p>轻度网页与 3 台设备选基础版（100GB）。需要原生流媒体、IPLC 游戏和 5 台设备选旗舰版（300GB）。多人共享、定制路由与 20 台设备选团队版（1000GB）。超额设备会挤占在线会话，流量用尽后需等待重置或变更套餐。</p></details><details><summary>支持哪些节点与流媒体场景？</summary><p>基础版使用普通线路节点池并解锁基础流媒体。旗舰版强调全节点原生解锁与游戏向 IPLC。团队版提供 VIP 高带宽节点。具体城市分组以订阅更新后的列表为准，连接前可先测延迟。</p></details><details><summary>导入订阅失败或经常掉线怎么处理？</summary><p>先核对链接完整、系统时间准确、仅运行一个 VPN 客户端。尝试切换协议或节点，关闭再开启 TUN。旗舰版可走 7x24 优先工单，团队版联系专属客户经理。不要在多个加速器之间反复冲突。</p></details><details><summary>是否可以在路由器上使用？团队版定制路由指什么？</summary><p>具备运维能力时可将订阅用于兼容的路由固件，占用设备额度。团队版的企业定制路由指按办公网段或域名分流，需与客户经理确认规则，而不是在本静态页提交配置。</p></details></section><section class=\"block\" id=\"download\"><h2>官方下载说明</h2><p>梦云(Yume) 官方网站不内嵌安装包二进制，以避免静态页被篡改。请按下列清单在设备应用商店或你已验证来源的发布页获取客户端，再用本站订阅完成配置。</p><h3>Windows</h3><p>选择带订阅管理与系统代理的图形客户端，安装后允许防火墙通过。导入梦云订阅，更新节点后再连接。</p><h3>macOS</h3><p>使用 Clash 系桌面端，授予网络扩展权限。菜单栏可切换节点，适合会议与流媒体同时开启分流。</p><h3>Android</h3><p>安装 Clash Meta 类应用，授权 VPN。建议关闭省电对客户端的限制，以免后台掉线占用套餐设备位。</p><h3>iOS</h3><p>使用支持订阅的商店应用。首次连接需在系统设置中允许 VPN 配置。同一 Apple ID 多设备仍计入套餐台数。</p><p><a href=\"#clients\">返回客户端选择步骤</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><div class=\"foot\"><section class=\"ads\" id=\"ads\"><h2>广告合作</h2><p>梦云(Yume) 接受与网络工具、跨境协作软件的文字互换推荐。合作内容仅展示品牌名与页内锚点，不放置脚本或外链资源。意向说明请通过已购套餐的工单通道提交。</p></section><nav class=\"map\" id=\"sitemap\" aria-label=\"网站地图\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#clients\">客户端选择</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#download\">官方下载</a></li><li><a href=\"#ads\">广告合作</a></li><li><a href=\"#links\">友情链接</a></li></ul></nav><section class=\"links\" id=\"links\"><h2>友情链接</h2><p><a href=\"#clients\">客户端选择指引</a> · <a href=\"#download\">官方下载说明</a> · <a href=\"#guide\">订阅导入步骤</a> · <a href=\"#plans\">套餐对照</a> · <a href=\"#faq\">帮助问答</a></p></section><footer><p>梦云(Yume) 官方网站 · 机场订阅与 VPN 加速器信息页 · <a href=\"#\">https://www.yume-official.com/</a></p></footer></div>",
+          "hash": "4a1297d71899b2d8ca1356fb221b74f8c43abbee77106aa0057b00d2522ecac7",
+          "seo": {
+            "title": "梦云(Yume)官网 - VPN梯子网络加速器与多端客户端官方下载",
+            "keywords": "梦云,Yume,梦云VPN,梦云机场,梯子,网络加速,加速器,客户端下载,官网,官方下载,机场订阅,Clash",
+            "description": "梦云(Yume)是提供机场订阅与VPN网络加速的官方网站，支持基础版至团队版套餐，覆盖多设备客户端下载与流媒体、游戏加速场景，帮助用户便捷获取订阅并完成连接。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xinganjob.cn",
+    "host": "p-1fbdb963c5.xinganjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "xinganjob.cn",
+      "url": "https://xinganjob.cn/",
+      "label": "飞数(Flyint)",
+      "apex": "xinganjob.cn",
+      "kind": null,
+      "identity": "qh6b3qjke/page-92bad6249ceec9c6b4327412"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5559dcba239f05f391a2ccafef9e3936d26642fbc82da1be9e152487a2870b80",
+    "sitemap.xml": "dcabbcc3d47cc2809db08099e45a55955c1c5bc37b5ee625d2c4b3b6b8bb2ee1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "94c8a8aa38b32595fcd3c0cdcc618efe0c0b2dbdd0c29ced6b616d3fbf9fab23",
+    "robots.txt": "a6c42eca82535d327e139af85a59aeb83cab72848b542be62a960cdd5e87466a",
+    "4b53dc11ece1f1cf824e94f7fb804400.txt": "16b38c5c4fb3633613fb8260b445005ef8843effb78f033196ec6b7c1ea4667d"
+  },
+  "revision": "65cc468d78323fe60247640683cc7a3ff484bfe9f974bb66a8e004df0fd8af55"
+}
